@@ -1,0 +1,69 @@
+{
+  "name": "BenchNine",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 32489,
+  "fonts": [
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BenchNine-Regular-TTF.ttf",
+      "postScriptName": "BenchNine-Regular",
+      "fullName": "BenchNine Regular",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    },
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 700,
+      "filename": "BenchNine-Bold-TTF.ttf",
+      "postScriptName": "BenchNine-Bold",
+      "fullName": "BenchNine Bold",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    },
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 700,
+      "filename": "BenchNine-Bold.ttf",
+      "postScriptName": "BenchNine-Bold",
+      "fullName": "BenchNine Bold",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    },
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 300,
+      "filename": "BenchNine-Light.ttf",
+      "postScriptName": "BenchNine-Light",
+      "fullName": "BenchNine Light",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    },
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 300,
+      "filename": "BenchNine-Light-TTF.ttf",
+      "postScriptName": "BenchNine-Light",
+      "fullName": "BenchNine Light",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    },
+    {
+      "name": "BenchNine",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BenchNine-Regular.ttf",
+      "postScriptName": "BenchNine-Regular",
+      "fullName": "BenchNine Regular",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-09-24"
+}

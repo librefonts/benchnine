@@ -1,0 +1,10 @@
+commit: HEAD
+process_files: [src/BenchNine-Regular.ufo, src/BenchNine-Bold.ufo, src/BenchNine-Light.ufo,
+  BenchNine-Regular.ttf.ttx, BenchNine-Light.ttf.ttx, BenchNine-Bold.ttf.ttx, src/BenchNine-Light-unhinted.ttf.ttx,
+  src/BenchNine-Light.otf.ttx, src/BenchNine-Bold-unhinted.ttf.ttx, src/BenchNine-Bold.otf.ttx,
+  src/BenchNine-Regular.otf.ttx, src/BenchNine-Regular-unhinted.ttf.ttx, src/BenchNine-Bold.sfd,
+  src/BenchNine-Regular-TTF.sfd, src/BenchNine-Bold-TTF.sfd, src/BenchNine-Regular.sfd,
+  src/BenchNine-Light-TTF.sfd, src/BenchNine-Light.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
